@@ -1,0 +1,12 @@
+[project]
+name = "cscn8010-multilayerperceptrons-workshop"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "tensorflow>=2.22.0rc0",
+    "torch>=2.15.0",
+    "torchvision>=0.29.2",
+]
